@@ -1,0 +1,7 @@
+PARA LA PLICACIÓN CON MAPA:
+1- AÑADIR POIs AL MAPA-->playa, restaurantes (con valoración), museos, iglesias, castillos, Centros históricos / cascos antiguos, Zonas de vida nocturna, Centros comerciales
+2- MEJORAR GRÁFICAS
+3- OPTIMIZAR APLICACIÓN
+
+PARA LA CREACION DE CLASIFICADORES Y REGRESORES
+1- ESTUDIAR CORRELACIÓN CON LA DISTANCIA DE LOS POIs
